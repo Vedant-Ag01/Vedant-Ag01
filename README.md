@@ -24,7 +24,7 @@
 
 ### 📚 Technical Skills
 - **Languages:** C++, Python, Java  
-- **Data Libraries:** NumPy, Pandas, Matplotlib  
+- **Data Libraries:** NumPy, Pandas, Matplotlib, Seaborn 
 - **Core CS:** DSA, OOP, Algorithms, Problem Solving  
 - **Tools:** Git, GitHub, Linux, VS Code  
 
